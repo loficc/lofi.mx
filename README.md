@@ -1,2 +1,3 @@
 # lofi.mx
-website
+
+The Lofi CC website.
