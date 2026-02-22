@@ -23,7 +23,7 @@ We believe in these ideas. We aren't absolutists about any of them.
 ### Design Driven
 
 * Simple - The hardest part of good design is cutting through the clutter.
-* Less - We strive to know when a system is sufficient.
+* Less - We strive to know when a system is sufficient. Software can be "done."
 * AI Last - We aren't anti-AI, but it should always be optional.
 * Immutable - Uncontrolled state mutation is the source of most software bugs.
 
