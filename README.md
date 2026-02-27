@@ -11,7 +11,9 @@ The Lofi Computer Collective website.
 
 ## Beliefs
 
-We believe in these ideas. We aren't absolutists about any of them.
+We believe in these ideas. We aren't absolutists about any of them. 
+These ideas are about the products _produce_, not the things we _consume:_ 
+the merit of production outweighs the merit of consumption by many orders of magnitude.
 
 ### Ethical
 
