@@ -19,8 +19,9 @@ the merit of production outweighs the merit of consumption by many orders of mag
 
 * Everyone - We want to support everyone, in many languages, with diverse users and contributors.
 * Open - Open protocols, open formats, open data, open models, open weights, open source.
-* Private - User data belongs to the user. Encryption helps prove safety.
-* Verified Trust - Promises aren't worth anything. We provide evidence.
+* Open By Need - More general = more open. A spreadsheet has more users than your grocery store's loyalty program.
+* Private - User data belongs to the user. Data sovereignty over encryption, but preferably both.
+* Verified Trust - Promises aren't worth anything. Evidence must be encoded.
 
 ### Design Driven
 
